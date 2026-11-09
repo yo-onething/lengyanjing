@@ -38,5 +38,13 @@
 |---|---|---|
 | 第一话 | 《心在哪？》——阿难被迷、文殊持咒救人、佛陀发问"心在哪里" | [comic/episode01/](comic/episode01/) |
 | 第二话 | 《七处征心》——佛陀连问七次，阿难连答七次，次次被破 | [comic/episode02/](comic/episode02/) |
+| 第三话 | 《十番显见》——佛陀带阿难亲眼看见"见性"，十番开示，一番比一番深 | [comic/episode03/](comic/episode03/) |
+| 第四话 | 《四科七大》——富楼那追问：真心不生灭，为何有山河大地；四科七大皆是如来藏 | [comic/episode04/](comic/episode04/) |
+| 第五话 | 《四种清净明诲》——断淫杀盗妄，修行先打地基 | [comic/episode05/](comic/episode05/) |
+| 第六话 | 《耳根圆通》——二十五圆通总说、观世音反闻闻自性、文殊拣选耳根 | [comic/episode06/](comic/episode06/) |
+| 第七话 | 《修行次第》——十信十住十行十回向十地，一站一站走的地图 | [comic/episode07/](comic/episode07/) |
+| 第八话 | 《五十阴魔·上》——色阴受阴想阴三十魔，修行路上的疫苗 | [comic/episode08/](comic/episode08/) |
+| 第九话 | 《五十阴魔·下》——行阴识阴二十魔，不作圣心，名善境界 | [comic/episode09/](comic/episode09/) |
+| 第十话 | 《全经收尾》——破→立→行→防，一张图收完 | [comic/episode10/](comic/episode10/) |
 
 画风：龙猫/吉卜力式简洁风；配字原则：文字不挡脸。
